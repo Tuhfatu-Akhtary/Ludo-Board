@@ -1,0 +1,13 @@
+html,body,main{height: 100%;width: 100%;}
+
+table{height: 50%;width:80%; margin: 30px;
+ border:1px solid black;}
+
+td{height: 50px ;width:50px;border:3px solid black; border-radius: 5px; }
+.box1{background-color: #f00;}
+.box2{background-color: #0f0;}
+.box3{background-color: #00f;}
+.box4{background-color: #ff0;}
+.box5{background-color: #bbb;}
+.boxi1{height: 250px; width:300px;margin: 100px; background-color: #fff}
+.circle{border-radius: 50%;height: 50px;}
